@@ -1,0 +1,1837 @@
+{
+  "results": [
+    {
+      "total_count": 200,
+      "category": {
+        "name": "Top Overall",
+        "subtype": "free",
+        "id": 100
+      },
+      "timestamp": "2025-08-22T13:00:00Z",
+      "entries": [
+        {
+          "id": 338189867157,
+          "name": "君のことが好きな件！",
+          "developer": "DownTownApps",
+          "developer_id": 2010674,
+          "storefront": "google_play",
+          "vendor_identifier": "com.kimi.sukinaken",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 26574809,
+          "name": "Google Wallet",
+          "developer": "Google LLC",
+          "developer_id": 58926,
+          "storefront": "google_play",
+          "vendor_identifier": "com.google.android.apps.walletnfcrel",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 337363354646,
+          "name": "Screw Sort Puzzle: Pin Jam 3D",
+          "developer": "BitEpoch",
+          "developer_id": 5137793,
+          "storefront": "google_play",
+          "vendor_identifier": "screw.puzzle.match3.brain.puzz",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 280390880399,
+          "name": "Piggy Clicker",
+          "developer": "株式会社EAGLE",
+          "developer_id": 920560,
+          "storefront": "google_play",
+          "vendor_identifier": "com.eagle_developers.shukapig",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 336809656588,
+          "name": "Snake Clash!",
+          "developer": "Supercent, Inc.",
+          "developer_id": 4343344,
+          "storefront": "google_play",
+          "vendor_identifier": "io.supercent.linkedcubic",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 266342430751,
+          "name": "Brave Private Web Browser, VPN",
+          "developer": "Brave Software",
+          "developer_id": 206196,
+          "storefront": "google_play",
+          "vendor_identifier": "com.brave.browser",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 338102416721,
+          "name": "Blood Sugar & Diabetes Tracker",
+          "developer": "PidomTech",
+          "developer_id": 4257633,
+          "storefront": "google_play",
+          "vendor_identifier": "com.bloodsugar.diabetes.tracker.pro",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 280513373346,
+          "name": "Canva: AI Photo & Video Editor",
+          "developer": "Canva",
+          "developer_id": 241944,
+          "storefront": "google_play",
+          "vendor_identifier": "com.canva.editor",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 19738039,
+          "name": "radiko",
+          "developer": "株式会社radiko",
+          "developer_id": 879977,
+          "storefront": "google_play",
+          "vendor_identifier": "jp.radiko.Player",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 21897063660,
+          "name": "BeautyPlus-Selfie Photo Editor",
+          "developer": "PIXOCIAL TECHNOLOGY (SINGAPORE) PTE. LTD.",
+          "developer_id": 170040,
+          "storefront": "google_play",
+          "vendor_identifier": "com.commsource.beautyplus",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 336526650872,
+          "name": "QR Scanner",
+          "developer": "P & L Studio",
+          "developer_id": 5149606,
+          "storefront": "google_play",
+          "vendor_identifier": "com.scannerreader.qrcode.creatorfree",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 338226432424,
+          "name": "All File Recovery",
+          "developer": "DEVONECRYPTO",
+          "developer_id": 4443788,
+          "storefront": "google_play",
+          "vendor_identifier": "com.all.filerecovery.image.video",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 334871415204,
+          "name": "QR Code Scanner - Scan Barcode",
+          "developer": "Tools & Utilities Apps",
+          "developer_id": 4455079,
+          "storefront": "google_play",
+          "vendor_identifier": "qrcodescanner.qrscanner.barcodescanner.qrcodereader.scanqr",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 337593868491,
+          "name": "Wizardry Variants Daphne",
+          "developer": "株式会社ドリコム",
+          "developer_id": 274426,
+          "storefront": "google_play",
+          "vendor_identifier": "jp.co.drecom.wizardry.daphne",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 228495651615,
+          "name": "QR & Barcode Reader",
+          "developer": "TeaCapps",
+          "developer_id": 681980,
+          "storefront": "google_play",
+          "vendor_identifier": "com.teacapps.barcodescanner",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 281382491507,
+          "name": "すき家公式アプリ",
+          "developer": "ZENSHO HOLDINGS CO., LTD.",
+          "developer_id": 2396331,
+          "storefront": "google_play",
+          "vendor_identifier": "jp.co.zensho.sukiyamoap",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 335049328581,
+          "name": "제타(zeta) - 상상이 현실이 되는 AI 채팅",
+          "developer": "Scatter Lab, Inc.",
+          "developer_id": 967501,
+          "storefront": "google_play",
+          "vendor_identifier": "com.scatterlab.messenger",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 19741378,
+          "name": "ANA",
+          "developer": "All Nippon Airways",
+          "developer_id": 51772,
+          "storefront": "google_play",
+          "vendor_identifier": "jp.co.ana.android.tabidachi",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 280670132688,
+          "name": "コミックDAYS",
+          "developer": "Kodansha Ltd.",
+          "developer_id": 22400,
+          "storefront": "google_play",
+          "vendor_identifier": "jp.co.kodansha.comicdays",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 336478789923,
+          "name": "Tile Club - Match Puzzle Game",
+          "developer": "GamoVation",
+          "developer_id": 2899060,
+          "storefront": "google_play",
+          "vendor_identifier": "com.gamovation.tileclub",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 265613195056,
+          "name": "dカードアプリ－明細照会・dポイントカードも利用できる！",
+          "developer": "NTT DOCOMO",
+          "developer_id": 26958,
+          "storefront": "google_play",
+          "vendor_identifier": "com.nttdocomo.dcard",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 335534832462,
+          "name": "ReelShort - Stream Drama & TV",
+          "developer": "NewLeaf Publishing",
+          "developer_id": 4901360,
+          "storefront": "google_play",
+          "vendor_identifier": "com.newleaf.app.android.victor",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 337217069390,
+          "name": "Daily Number Match",
+          "developer": "Game Maker Ltd.",
+          "developer_id": 30916,
+          "storefront": "google_play",
+          "vendor_identifier": "daily.number.match.free.puzzle",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 337644931091,
+          "name": "All Document Tools",
+          "developer": "P & L Studio",
+          "developer_id": 5149606,
+          "storefront": "google_play",
+          "vendor_identifier": "com.document.tools.all",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 338142697064,
+          "name": "Block Escape",
+          "developer": "KAYAC Inc.",
+          "developer_id": 55614,
+          "storefront": "google_play",
+          "vendor_identifier": "com.Kayac.BlockEscape",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 39900114184,
+          "name": "ibis Paint X",
+          "developer": "ibis inc.",
+          "developer_id": 11528,
+          "storefront": "google_play",
+          "vendor_identifier": "jp.ne.ibis.ibispaintx.app",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 335093528202,
+          "name": "Vehicle Masters",
+          "developer": "SayGames Ltd",
+          "developer_id": 4448856,
+          "storefront": "google_play",
+          "vendor_identifier": "com.pd.vehiclemasters",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 337556131088,
+          "name": "Demon Sorceress : Idle RPG",
+          "developer": "Volcanus Studio Co.,Ltd.",
+          "developer_id": 5660264,
+          "storefront": "google_play",
+          "vendor_identifier": "com.Volcanus.DemonSorceress.aos",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 5563578,
+          "name": "WhatsApp Messenger",
+          "developer": "WhatsApp LLC",
+          "developer_id": 837190,
+          "storefront": "google_play",
+          "vendor_identifier": "com.whatsapp",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 39909744141,
+          "name": "ドラマ/映画はFOD テレビの見逃し配信や動画が見放題！",
+          "developer": "Fuji Television",
+          "developer_id": 309093,
+          "storefront": "google_play",
+          "vendor_identifier": "air.jp.co.fujitv.fodviewer",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 234709026326,
+          "name": "MISTPLAY: Play to Earn Money",
+          "developer": "MISTPLAY",
+          "developer_id": 1105085,
+          "storefront": "google_play",
+          "vendor_identifier": "com.mistplay.mistplay",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 337581393590,
+          "name": "Mini Games: Calm & Relax",
+          "developer": "Unicorn Studio Official",
+          "developer_id": 5028456,
+          "storefront": "google_play",
+          "vendor_identifier": "com.uc.minigame.relax",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 40251003955,
+          "name": "31Club サーティワン公式アプリ",
+          "developer": "B-R 31ICE CREAM CO., LTD.",
+          "developer_id": 22999,
+          "storefront": "google_play",
+          "vendor_identifier": "jp.co.br31ice.android.thirtyoneclub",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 280761994000,
+          "name": "Brawl Stars",
+          "developer": "Supercell",
+          "developer_id": 134517,
+          "storefront": "google_play",
+          "vendor_identifier": "com.supercell.brawlstars",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 337601768635,
+          "name": "Pokémon TCG Pocket - Card Game",
+          "developer": "The Pokémon Company",
+          "developer_id": 5297021,
+          "storefront": "google_play",
+          "vendor_identifier": "jp.pokemon.pokemontcgp",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 19735454,
+          "name": "ヘア&ビューティーサロン検索/ホットペッパービューティー",
+          "developer": "Recruit Co.,Ltd.",
+          "developer_id": 42852,
+          "storefront": "google_play",
+          "vendor_identifier": "jp.hotpepper.android.beauty.hair",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 5560727,
+          "name": "Yahoo!天気 - 雨雲や台風の接近がわかる天気予報アプリ",
+          "developer": "Yahoo! JAPAN (LY Corporation)",
+          "developer_id": 136297,
+          "storefront": "google_play",
+          "vendor_identifier": "jp.co.yahoo.android.weather.type1",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 281414516032,
+          "name": "My SoftBank",
+          "developer": "SoftBank Corp.",
+          "developer_id": 3941,
+          "storefront": "google_play",
+          "vendor_identifier": "jp.co.softbank.OfficialApp",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 336931194745,
+          "name": "コメダ珈琲店",
+          "developer": "株式会社コメダ",
+          "developer_id": 3915416,
+          "storefront": "google_play",
+          "vendor_identifier": "jp.co.komeda.ua.android",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 335899649402,
+          "name": "DMM TV アニメ・ドラマ・映画・バラエティなどが見放題",
+          "developer": "DMM.com",
+          "developer_id": 204768,
+          "storefront": "google_play",
+          "vendor_identifier": "com.dmm.premium",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 19740541,
+          "name": "Yahoo!マップ - 最新地図、ナビや乗換案内も",
+          "developer": "Yahoo! JAPAN (LY Corporation)",
+          "developer_id": 136297,
+          "storefront": "google_play",
+          "vendor_identifier": "jp.co.yahoo.android.apps.map",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 41889214711,
+          "name": "Link to Windows",
+          "developer": "Microsoft Corporation",
+          "developer_id": 1842,
+          "storefront": "google_play",
+          "vendor_identifier": "com.microsoft.appmanager",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 15569302,
+          "name": "Pinterest",
+          "developer": "Pinterest",
+          "developer_id": 662786,
+          "storefront": "google_play",
+          "vendor_identifier": "com.pinterest",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 338119024577,
+          "name": "Survival Shelter",
+          "developer": "FATTOY",
+          "developer_id": 2369037,
+          "storefront": "google_play",
+          "vendor_identifier": "com.fattoy.shelter",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 335393005885,
+          "name": "Document Reader & PDF Editor",
+          "developer": "QR Code Scanner.",
+          "developer_id": 4547281,
+          "storefront": "google_play",
+          "vendor_identifier": "all.documentreader.filereader.office.viewer",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 337642261255,
+          "name": "Car Jam",
+          "developer": "Shycheese",
+          "developer_id": 5040534,
+          "storefront": "google_play",
+          "vendor_identifier": "car.jam.traffic.seat.unblock",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 337916277746,
+          "name": "Clean Buddy",
+          "developer": "Coder HOMOO BD",
+          "developer_id": 5761556,
+          "storefront": "google_play",
+          "vendor_identifier": "com.buddy.manager.file.clean",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 39760464910,
+          "name": "Township",
+          "developer": "Playrix",
+          "developer_id": 28131,
+          "storefront": "google_play",
+          "vendor_identifier": "com.playrix.township",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 212832571,
+          "name": "Alarmy - Alarm Clock & Sleep",
+          "developer": "Sleep Tracker & Alarm Clock by Delightroom",
+          "developer_id": 83514,
+          "storefront": "google_play",
+          "vendor_identifier": "droom.sleepIfUCan",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 41837194093,
+          "name": "Apple Music",
+          "developer": "Apple",
+          "developer_id": 79055,
+          "storefront": "google_play",
+          "vendor_identifier": "com.apple.android.music",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        }
+      ]
+    },
+    {
+      "total_count": 200,
+      "category": {
+        "name": "Top Overall",
+        "subtype": "paid",
+        "id": 100
+      },
+      "timestamp": "2025-08-22T13:00:00Z",
+      "entries": [
+        {
+          "id": 334351460861,
+          "name": "FINAL FANTASY",
+          "developer": "SQUARE ENIX Co.,Ltd.",
+          "developer_id": 25453,
+          "storefront": "google_play",
+          "vendor_identifier": "com.square_enix.android_googleplay.FFPR",
+          "price": {
+            "currency": "JPY",
+            "price": "1800.00"
+          }
+        },
+        {
+          "id": 336993562422,
+          "name": "Little Nightmares",
+          "developer": "Playdigious",
+          "developer_id": 377943,
+          "storefront": "google_play",
+          "vendor_identifier": "com.playdigious.littlenightmare",
+          "price": {
+            "currency": "JPY",
+            "price": "1080.00"
+          }
+        },
+        {
+          "id": 336778381141,
+          "name": "[Premium] RPG Astrune Academy",
+          "developer": "KEMCO",
+          "developer_id": 46984,
+          "storefront": "google_play",
+          "vendor_identifier": "kemco.execreate.magicalgirlspremium",
+          "price": {
+            "currency": "JPY",
+            "price": "480.00"
+          }
+        },
+        {
+          "id": 280973527874,
+          "name": "Simple Notes Pro",
+          "developer": "Simple Mobile Tool",
+          "developer_id": 1056031,
+          "storefront": "google_play",
+          "vendor_identifier": "com.simplemobiletools.notes.pro",
+          "price": {
+            "currency": "JPY",
+            "price": "100.00"
+          }
+        },
+        {
+          "id": 334351460863,
+          "name": "FINAL FANTASY II",
+          "developer": "SQUARE ENIX Co.,Ltd.",
+          "developer_id": 25453,
+          "storefront": "google_play",
+          "vendor_identifier": "com.square_enix.android_googleplay.FFPR2",
+          "price": {
+            "currency": "JPY",
+            "price": "1800.00"
+          }
+        },
+        {
+          "id": 280803902973,
+          "name": "三國志Ⅴ",
+          "developer": "KOEI TECMO GAMES CO., LTD.",
+          "developer_id": 7996,
+          "storefront": "google_play",
+          "vendor_identifier": "jp.co.koeitecmo.sangokushi_v",
+          "price": {
+            "currency": "JPY",
+            "price": "2600.00"
+          }
+        },
+        {
+          "id": 40046920843,
+          "name": "NFC Tools - Pro Edition",
+          "developer": "wakdev",
+          "developer_id": 218761,
+          "storefront": "google_play",
+          "vendor_identifier": "com.wakdev.nfctools.pro",
+          "price": {
+            "currency": "JPY",
+            "price": "439.00"
+          }
+        },
+        {
+          "id": 335031038012,
+          "name": "DRAGON QUEST BUILDERS",
+          "developer": "SQUARE ENIX Co.,Ltd.",
+          "developer_id": 25453,
+          "storefront": "google_play",
+          "vendor_identifier": "com.square_enix.dqb",
+          "price": {
+            "currency": "JPY",
+            "price": "4400.00"
+          }
+        },
+        {
+          "id": 334034972389,
+          "name": "60 Seconds! Reatomized",
+          "developer": "Robot Gentleman",
+          "developer_id": 2325157,
+          "storefront": "google_play",
+          "vendor_identifier": "com.RobotGentleman.game60SecondsReatomized",
+          "price": {
+            "currency": "JPY",
+            "price": "480.00"
+          }
+        },
+        {
+          "id": 281204763219,
+          "name": "信長の野望･烈風伝",
+          "developer": "KOEI TECMO GAMES CO., LTD.",
+          "developer_id": 7996,
+          "storefront": "google_play",
+          "vendor_identifier": "jp.co.koeitecmo.nobu_rpd",
+          "price": {
+            "currency": "JPY",
+            "price": "3600.00"
+          }
+        },
+        {
+          "id": 5581820,
+          "name": "iReal Pro: Backing Tracks",
+          "developer": "Technimo",
+          "developer_id": 456409,
+          "storefront": "google_play",
+          "vendor_identifier": "com.massimobiolcati.irealb",
+          "price": {
+            "currency": "JPY",
+            "price": "3250.00"
+          }
+        },
+        {
+          "id": 5541535,
+          "name": "アイムジャグラーEX",
+          "developer": "Kita Denshi Corporation",
+          "developer_id": 904313,
+          "storefront": "google_play",
+          "vendor_identifier": "juggler.ex",
+          "price": {
+            "currency": "JPY",
+            "price": "800.00"
+          }
+        },
+        {
+          "id": 41598839806,
+          "name": "Door Kickers",
+          "developer": "KillHouse Games",
+          "developer_id": 341358,
+          "storefront": "google_play",
+          "vendor_identifier": "com.khg.doorkickers",
+          "price": {
+            "currency": "JPY",
+            "price": "620.00"
+          }
+        },
+        {
+          "id": 337342110551,
+          "name": "Ｐ緋弾のアリア～緋緋神降臨～ラッキートリガーＶｅｒ．",
+          "developer": "SUNSOFT.GAMES",
+          "developer_id": 144501,
+          "storefront": "google_play",
+          "vendor_identifier": "jp.co.sundenshi.aria5kaip",
+          "price": {
+            "currency": "JPY",
+            "price": "2900.00"
+          }
+        },
+        {
+          "id": 334499176209,
+          "name": "7 Days to End with You",
+          "developer": "Lizardry",
+          "developer_id": 4015748,
+          "storefront": "google_play",
+          "vendor_identifier": "com.Lizardry.Youllbedeadin7days",
+          "price": {
+            "currency": "JPY",
+            "price": "650.00"
+          }
+        },
+        {
+          "id": 336889430068,
+          "name": "Launcher OS™ Pro",
+          "developer": "Apps Genz",
+          "developer_id": 5002661,
+          "storefront": "google_play",
+          "vendor_identifier": "com.appsgenz.launcherios.pro",
+          "price": {
+            "currency": "JPY",
+            "price": "399.00"
+          }
+        },
+        {
+          "id": 281562507895,
+          "name": "有機化学",
+          "developer": "Hideki Touhara",
+          "developer_id": 2174707,
+          "storefront": "google_play",
+          "vendor_identifier": "hihello.yuukikagaku003",
+          "price": {
+            "currency": "JPY",
+            "price": "800.00"
+          }
+        },
+        {
+          "id": 317508668853,
+          "name": "ADV 千里の棋譜 ～現代将棋ミステリー～",
+          "developer": "KEMCO",
+          "developer_id": 46984,
+          "storefront": "google_play",
+          "vendor_identifier": "kemco.mistastories.senrinokifu",
+          "price": {
+            "currency": "JPY",
+            "price": "160.00"
+          }
+        },
+        {
+          "id": 334319555853,
+          "name": "Trials of Mana",
+          "developer": "SQUARE ENIX Co.,Ltd.",
+          "developer_id": 25453,
+          "storefront": "google_play",
+          "vendor_identifier": "com.square_enix.android_googleplay.tom",
+          "price": {
+            "currency": "JPY",
+            "price": "3500.00"
+          }
+        },
+        {
+          "id": 334698977006,
+          "name": "社会福祉士 過去問（完全版） 社会福祉士国家試験の問題と解説",
+          "developer": "Social Note Co., Ltd.",
+          "developer_id": 3192837,
+          "storefront": "google_play",
+          "vendor_identifier": "com.harusankaigo.kakomon.SocialWorkerPro",
+          "price": {
+            "currency": "JPY",
+            "price": "370.00"
+          }
+        },
+        {
+          "id": 334392646316,
+          "name": "Sa･Ga COLLECTION",
+          "developer": "SQUARE ENIX Co.,Ltd.",
+          "developer_id": 25453,
+          "storefront": "google_play",
+          "vendor_identifier": "com.square_enix.android_googleplay.SagaCollection_Sjp",
+          "price": {
+            "currency": "JPY",
+            "price": "2600.00"
+          }
+        },
+        {
+          "id": 334975336678,
+          "name": "Rotaeno",
+          "developer": "X.D. Network",
+          "developer_id": 1952843,
+          "storefront": "google_play",
+          "vendor_identifier": "com.xd.rotaeno.googleplay",
+          "price": {
+            "currency": "JPY",
+            "price": "370.00"
+          }
+        },
+        {
+          "id": 333871941485,
+          "name": "Mahjong Demon",
+          "developer": "NUTRACTOR",
+          "developer_id": 63540,
+          "storefront": "google_play",
+          "vendor_identifier": "com.nutractor.MahjongDemon",
+          "price": {
+            "currency": "JPY",
+            "price": "370.00"
+          }
+        },
+        {
+          "id": 337555966637,
+          "name": "ドラゴンクエストモンスターズ３　魔族の王子とエルフの旅",
+          "developer": "SQUARE ENIX Co.,Ltd.",
+          "developer_id": 1425936,
+          "storefront": "google_play",
+          "vendor_identifier": "com.square_enix.android_googleplay.DragonQuestMonsters3jp",
+          "price": {
+            "currency": "JPY",
+            "price": "3800.00"
+          }
+        },
+        {
+          "id": 281885176013,
+          "name": "PXPlay: Remote Play",
+          "developer": "Stream Game Dev",
+          "developer_id": 347394,
+          "storefront": "google_play",
+          "vendor_identifier": "psplay.grill.com",
+          "price": {
+            "currency": "JPY",
+            "price": "1060.00"
+          }
+        },
+        {
+          "id": 39775572498,
+          "name": "FINAL FANTASY IV: TAY",
+          "developer": "SQUARE ENIX Co.,Ltd.",
+          "developer_id": 25453,
+          "storefront": "google_play",
+          "vendor_identifier": "com.square_enix.android_googleplay.FF4AY_GP",
+          "price": {
+            "currency": "JPY",
+            "price": "2400.00"
+          }
+        },
+        {
+          "id": 336839127565,
+          "name": "Luck be a Landlord",
+          "developer": "TrampolineTales",
+          "developer_id": 5287255,
+          "storefront": "google_play",
+          "vendor_identifier": "com.trampolinetales.lbal",
+          "price": {
+            "currency": "JPY",
+            "price": "720.00"
+          }
+        },
+        {
+          "id": 280041997620,
+          "name": "野球部ものがたり",
+          "developer": "Kairosoft",
+          "developer_id": 106822,
+          "storefront": "google_play",
+          "vendor_identifier": "net.kairosoft.android.baseball_ja",
+          "price": {
+            "currency": "JPY",
+            "price": "800.00"
+          }
+        },
+        {
+          "id": 19723409,
+          "name": "SPI言語 【Study Pro】",
+          "developer": "Study Pro",
+          "developer_id": 221239,
+          "storefront": "google_play",
+          "vendor_identifier": "studypro.spi",
+          "price": {
+            "currency": "JPY",
+            "price": "250.00"
+          }
+        },
+        {
+          "id": 280314472991,
+          "name": "パチスロ　リング　終焉ノ刻",
+          "developer": "SUNSOFT.GAMES",
+          "developer_id": 2088352,
+          "storefront": "google_play",
+          "vendor_identifier": "jp.co.sundenshi.slotring2fsa",
+          "price": {
+            "currency": "JPY",
+            "price": "980.00"
+          }
+        },
+        {
+          "id": 41177625007,
+          "name": "Hitman Sniper",
+          "developer": "Deca Games",
+          "developer_id": 25453,
+          "storefront": "google_play",
+          "vendor_identifier": "com.squareenixmontreal.hitmansniperandroid",
+          "price": {
+            "currency": "JPY",
+            "price": "290.00"
+          }
+        },
+        {
+          "id": 280514019359,
+          "name": "Sudoku Master Offline",
+          "developer": "Jincy",
+          "developer_id": 162650,
+          "storefront": "google_play",
+          "vendor_identifier": "techmasterplus.bestsudokupaidapp",
+          "price": {
+            "currency": "JPY",
+            "price": "140.00"
+          }
+        },
+        {
+          "id": 281218530095,
+          "name": "Pirates Outlaws",
+          "developer": "Fabled Game",
+          "developer_id": 3152346,
+          "storefront": "google_play",
+          "vendor_identifier": "com.piratesoutlaws.fabledgame",
+          "price": {
+            "currency": "JPY",
+            "price": "110.00"
+          }
+        },
+        {
+          "id": 281220427247,
+          "name": "Tick Tock: A Tale for Two",
+          "developer": "Other Tales Interactive",
+          "developer_id": 3152090,
+          "storefront": "google_play",
+          "vendor_identifier": "com.OtherTales.TickTock",
+          "price": {
+            "currency": "JPY",
+            "price": "430.00"
+          }
+        },
+        {
+          "id": 337326369877,
+          "name": "Kingdom Rush 5: Alliance TD",
+          "developer": "Ironhide Games",
+          "developer_id": 4351870,
+          "storefront": "google_play",
+          "vendor_identifier": "com.ironhidegames.android.kingdomrush.alliance",
+          "price": {
+            "currency": "JPY",
+            "price": "1080.00"
+          }
+        },
+        {
+          "id": 337211693470,
+          "name": "Saturn.emu (Saturn Emulator)",
+          "developer": "Robert Broglia",
+          "developer_id": 20424,
+          "storefront": "google_play",
+          "vendor_identifier": "com.explusalpha.SaturnEmu",
+          "price": {
+            "currency": "JPY",
+            "price": "740.00"
+          }
+        },
+        {
+          "id": 338177639384,
+          "name": "Final Frontier Story",
+          "developer": "Kairosoft",
+          "developer_id": 106822,
+          "storefront": "google_play",
+          "vendor_identifier": "net.kairosoft.android.wakusei",
+          "price": {
+            "currency": "JPY",
+            "price": "1000.00"
+          }
+        },
+        {
+          "id": 337872085397,
+          "name": "Skating Rink Story",
+          "developer": "Kairosoft",
+          "developer_id": 106822,
+          "storefront": "google_play",
+          "vendor_identifier": "net.kairosoft.android.skate",
+          "price": {
+            "currency": "JPY",
+            "price": "1000.00"
+          }
+        },
+        {
+          "id": 280466446899,
+          "name": "モンスターハンター ストーリーズ",
+          "developer": "CAPCOM CO., LTD.",
+          "developer_id": 63927,
+          "storefront": "google_play",
+          "vendor_identifier": "jp.co.capcom.mhssp",
+          "price": {
+            "currency": "JPY",
+            "price": "2600.00"
+          }
+        },
+        {
+          "id": 40979497057,
+          "name": "Onkyo HF Player Unlocker",
+          "developer": "Onkyo Corporation",
+          "developer_id": 500187,
+          "storefront": "google_play",
+          "vendor_identifier": "com.onkyo.jp.hfplayer_unlocker",
+          "price": {
+            "currency": "JPY",
+            "price": "1600.00"
+          }
+        },
+        {
+          "id": 337640575867,
+          "name": "KAMITSUBAKI CITY ENSEMBLE",
+          "developer": "FURYU_SG",
+          "developer_id": 905788,
+          "storefront": "google_play",
+          "vendor_identifier": "jp.ensemble.kamitsubakicity",
+          "price": {
+            "currency": "JPY",
+            "price": "440.00"
+          }
+        },
+        {
+          "id": 280130756589,
+          "name": "USB Camera Pro",
+          "developer": "沈垚 / ShenYao China",
+          "developer_id": 83392,
+          "storefront": "google_play",
+          "vendor_identifier": "com.shenyaocn.android.usbcamerapro",
+          "price": {
+            "currency": "JPY",
+            "price": "820.00"
+          }
+        },
+        {
+          "id": 280549023519,
+          "name": "信長の野望･武将風雲録",
+          "developer": "KOEI TECMO GAMES CO., LTD.",
+          "developer_id": 7996,
+          "storefront": "google_play",
+          "vendor_identifier": "jp.co.koeitecmo.nobu_bf_gp",
+          "price": {
+            "currency": "JPY",
+            "price": "2600.00"
+          }
+        },
+        {
+          "id": 280100065228,
+          "name": "1DM+: Browser & Video Download",
+          "developer": "Vicky Bonick",
+          "developer_id": 115692,
+          "storefront": "google_play",
+          "vendor_identifier": "idm.internet.download.manager.plus",
+          "price": {
+            "currency": "JPY",
+            "price": "399.00"
+          }
+        },
+        {
+          "id": 5551902,
+          "name": "Torque Pro (OBD 2 & Car)",
+          "developer": "Ian Hawkins",
+          "developer_id": 551531,
+          "storefront": "google_play",
+          "vendor_identifier": "org.prowl.torque",
+          "price": {
+            "currency": "JPY",
+            "price": "425.00"
+          }
+        },
+        {
+          "id": 334036078384,
+          "name": "SアイムジャグラーEX",
+          "developer": "Kita Denshi Corporation",
+          "developer_id": 904313,
+          "storefront": "google_play",
+          "vendor_identifier": "jp.co.kitadenshi.android.simjugglerex",
+          "price": {
+            "currency": "JPY",
+            "price": "800.00"
+          }
+        },
+        {
+          "id": 40351469550,
+          "name": "Five Nights at Freddy's 2",
+          "developer": "Clickteam USA LLC",
+          "developer_id": 14456,
+          "storefront": "google_play",
+          "vendor_identifier": "com.scottgames.fnaf2",
+          "price": {
+            "currency": "JPY",
+            "price": "320.00"
+          }
+        },
+        {
+          "id": 336160836935,
+          "name": "Handy Guitar Lab for G2 FOUR",
+          "developer": "ZOOM Corporation",
+          "developer_id": 103209,
+          "storefront": "google_play",
+          "vendor_identifier": "jp.co.zoom.HandyGuitarLabforG2FOUR",
+          "price": {
+            "currency": "JPY",
+            "price": "100.00"
+          }
+        },
+        {
+          "id": 5544002,
+          "name": "John GBC",
+          "developer": "John emulators",
+          "developer_id": 511274,
+          "storefront": "google_play",
+          "vendor_identifier": "com.johnemulators.johngbc",
+          "price": {
+            "currency": "JPY",
+            "price": "300.00"
+          }
+        },
+        {
+          "id": 337076547415,
+          "name": "パチスロ 新鬼武者2",
+          "developer": "株式会社ユニバーサルエンターテインメント",
+          "developer_id": 3493,
+          "storefront": "google_play",
+          "vendor_identifier": "com.universal777.shin_oni2",
+          "price": {
+            "currency": "JPY",
+            "price": "1500.00"
+          }
+        }
+      ]
+    },
+    {
+      "total_count": 200,
+      "category": {
+        "name": "Top Grossing",
+        "subtype": "topgrossing",
+        "id": 100
+      },
+      "timestamp": "2025-08-22T13:00:00Z",
+      "entries": [
+        {
+          "id": 280711154305,
+          "name": "PUBG Mobile",
+          "developer": "KRAFTON, Inc.",
+          "developer_id": 2445673,
+          "storefront": "google_play",
+          "vendor_identifier": "com.pubg.krmobile",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 280970700747,
+          "name": "IRIAM",
+          "developer": "IRIAM Inc",
+          "developer_id": 322983,
+          "storefront": "google_play",
+          "vendor_identifier": "jp.co.duo7.vr.iriam",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 11959888294,
+          "name": "ポケコロ かわいいアバター着せ替えアプリ",
+          "developer": "cocone ONE corporation",
+          "developer_id": 504867,
+          "storefront": "google_play",
+          "vendor_identifier": "jp.cocone.pocketcolony",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 39909744141,
+          "name": "ドラマ/映画はFOD テレビの見逃し配信や動画が見放題！",
+          "developer": "Fuji Television",
+          "developer_id": 309093,
+          "storefront": "google_play",
+          "vendor_identifier": "air.jp.co.fujitv.fodviewer",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 280897976999,
+          "name": "漫画 ebookjapan 漫画が電子書籍で読める漫画アプリ",
+          "developer": "ebookjapan(LINE Digital Frontier Corporation)",
+          "developer_id": 136297,
+          "storefront": "google_play",
+          "vendor_identifier": "jp.co.yahoo.android.ebookjapan",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 232283982276,
+          "name": "Empires & Puzzles: Dragon Dawn",
+          "developer": "Small Giant Games",
+          "developer_id": 633164,
+          "storefront": "google_play",
+          "vendor_identifier": "com.smallgiantgames.empires",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 42147822482,
+          "name": "Lords Mobile: Kingdom Wars",
+          "developer": "IGG.COM",
+          "developer_id": 184052,
+          "storefront": "google_play",
+          "vendor_identifier": "com.igg.android.lordsmobile",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 335346824665,
+          "name": "Survivor.io",
+          "developer": "Habby",
+          "developer_id": 2255174,
+          "storefront": "google_play",
+          "vendor_identifier": "com.dxx.firenow",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 337528662385,
+          "name": "NetShort - Popular Dramas & TV",
+          "developer": "NETSTORY PTE. LTD.",
+          "developer_id": 1489432,
+          "storefront": "google_play",
+          "vendor_identifier": "com.netshort.abroad",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 280148345634,
+          "name": "マリッシュ(marrish) 婚活・再婚マッチングアプリ",
+          "developer": "MARRISH, K.K.",
+          "developer_id": 2033308,
+          "storefront": "google_play",
+          "vendor_identifier": "com.marrish.app",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 334325680794,
+          "name": "Pikmin Bloom",
+          "developer": "Niantic, Inc.",
+          "developer_id": 396337,
+          "storefront": "google_play",
+          "vendor_identifier": "com.nianticlabs.pikmin",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 337145683478,
+          "name": "Match Factory!",
+          "developer": "Peak",
+          "developer_id": 228728,
+          "storefront": "google_play",
+          "vendor_identifier": "net.peakgames.match",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 41837194093,
+          "name": "Apple Music",
+          "developer": "Apple",
+          "developer_id": 79055,
+          "storefront": "google_play",
+          "vendor_identifier": "com.apple.android.music",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 26077166260,
+          "name": "ぷよぷよ!!クエスト -簡単操作で大連鎖。爽快 パズル",
+          "developer": "SEGA CORPORATION",
+          "developer_id": 298398,
+          "storefront": "google_play",
+          "vendor_identifier": "com.sega.PuyoQuest",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 334775228770,
+          "name": "ザ・グランドマフィア",
+          "developer": "Phantix Games",
+          "developer_id": 2080150,
+          "storefront": "google_play",
+          "vendor_identifier": "com.yottagames.gameofmafiajp",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 335751176298,
+          "name": "陰の実力者になりたくて！マスターオブガーデン",
+          "developer": "Aiming Inc.",
+          "developer_id": 903959,
+          "storefront": "google_play",
+          "vendor_identifier": "com.aiming.shadow.garden.mog",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 333780567054,
+          "name": "パニシング：グレイレイヴン",
+          "developer": "KURO TECHNOLOGY (HONG KONG) CO., LIMITED",
+          "developer_id": 1120043,
+          "storefront": "google_play",
+          "vendor_identifier": "com.herogame.gplay.punishing.grayraven.jp",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 338208030009,
+          "name": "ドンドコヒーロー：オープンワールドの大冒険",
+          "developer": "GOAT Games",
+          "developer_id": 429202,
+          "storefront": "google_play",
+          "vendor_identifier": "com.goatgames.ddh.jp.gp",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 336981406335,
+          "name": "ShortMax - Watch Dramas & Show",
+          "developer": "SHORTMAX LIMITED",
+          "developer_id": 5370368,
+          "storefront": "google_play",
+          "vendor_identifier": "live.shorttv.apps",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 281047987359,
+          "name": "netkeiba ネットケイバ",
+          "developer": "Net Dreamers Co.,LTD.",
+          "developer_id": 516195,
+          "storefront": "google_play",
+          "vendor_identifier": "jp.co.netdreamers.netkeiba",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 41786320349,
+          "name": "U-NEXT／ユーネクスト：映画、ドラマ、アニメなどが見放題",
+          "developer": "U-NEXT",
+          "developer_id": 199822,
+          "storefront": "google_play",
+          "vendor_identifier": "jp.unext.tv.player",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 280252086784,
+          "name": "リネージュ2 レボリューション",
+          "developer": "Netmarble",
+          "developer_id": 2441389,
+          "storefront": "google_play",
+          "vendor_identifier": "com.netmarble.revolutionjp",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 280079993950,
+          "name": "出会い探すならハッピー！出会い系・マッチングアプリ",
+          "developer": "株式会社アイベック",
+          "developer_id": 1983590,
+          "storefront": "google_play",
+          "vendor_identifier": "jp.co.i_bec.suteki_happy",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 336823391180,
+          "name": "MoboReels-Short Dramas&Movies",
+          "developer": "MOBOREADER TECHNOLOGY USA CO LTD",
+          "developer_id": 4573713,
+          "storefront": "google_play",
+          "vendor_identifier": "com.changdu.mobovideo",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 336927881132,
+          "name": "レスレリアーナのアトリエ",
+          "developer": "KOEI TECMO GAMES CO., LTD.",
+          "developer_id": 7996,
+          "storefront": "google_play",
+          "vendor_identifier": "jp.co.koeitecmo.resleriana",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 334472045400,
+          "name": "少女ウォーズ: 幻想天下統一戦",
+          "developer": "FriendHours",
+          "developer_id": 4598569,
+          "storefront": "google_play",
+          "vendor_identifier": "com.y2sgames.girlwarsjp",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 334090521382,
+          "name": "제2의 나라: Cross Worlds",
+          "developer": "Netmarble",
+          "developer_id": 2441389,
+          "storefront": "google_play",
+          "vendor_identifier": "com.netmarble.enn",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 334361945742,
+          "name": "Ant Legion: For The Swarm",
+          "developer": "37GAMES",
+          "developer_id": 4040515,
+          "storefront": "google_play",
+          "vendor_identifier": "com.global.antgame",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 41777450349,
+          "name": "dアニメストア-アニメ動画が見放題のアプリ/コミックも読める",
+          "developer": "NTT DOCOMO",
+          "developer_id": 26958,
+          "storefront": "google_play",
+          "vendor_identifier": "com.nttdocomo.android.danimeapp",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 338156251644,
+          "name": "やばい！少女に囲まれた！",
+          "developer": "Capetown Games",
+          "developer_id": 3803398,
+          "storefront": "google_play",
+          "vendor_identifier": "com.capetown.mh.jp.gp",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 26534324,
+          "name": "VirusBuster Mobile",
+          "developer": "Trend Micro Inc. / トレンドマイクロ株式会社",
+          "developer_id": 509760,
+          "storefront": "google_play",
+          "vendor_identifier": "com.trendmicro.tmmspersonal.jp.googleplayversion",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 5569908,
+          "name": "X (Formerly Twitter)",
+          "developer": "X Corp.",
+          "developer_id": 386881,
+          "storefront": "google_play",
+          "vendor_identifier": "com.twitter.android",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 335534832462,
+          "name": "ReelShort - Stream Drama & TV",
+          "developer": "NewLeaf Publishing",
+          "developer_id": 4901360,
+          "storefront": "google_play",
+          "vendor_identifier": "com.newleaf.app.android.victor",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 336373714872,
+          "name": "LINE：モンスターファーム",
+          "developer": "LINE (LY Corporation)",
+          "developer_id": 140190,
+          "storefront": "google_play",
+          "vendor_identifier": "com.linecorp.LGMF",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 337133015555,
+          "name": "Tasty Travels: Merge Game",
+          "developer": "Century Games PTE. LTD.",
+          "developer_id": 2180614,
+          "storefront": "google_play",
+          "vendor_identifier": "com.fatmerge.global",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 281231086465,
+          "name": "Speak: Language Learning",
+          "developer": "Speakeasy Labs",
+          "developer_id": 1969036,
+          "storefront": "google_play",
+          "vendor_identifier": "com.selabs.speak",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 338239561848,
+          "name": "ゆうゆう機空団",
+          "developer": "Chase Online Company Limited",
+          "developer_id": 2161155,
+          "storefront": "google_play",
+          "vendor_identifier": "com.coc.jpht",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 334329884747,
+          "name": "乃木坂的フラクタル",
+          "developer": "Appirits Inc.",
+          "developer_id": 180897,
+          "storefront": "google_play",
+          "vendor_identifier": "jp.co.gu3.delta",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 255724048225,
+          "name": "DAZN - Watch Live Sports",
+          "developer": "DAZN",
+          "developer_id": 1122328,
+          "storefront": "google_play",
+          "vendor_identifier": "com.dazn",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 337675678610,
+          "name": "30代以上を最大応援のいまいこ 青春時代を取り戻せ",
+          "developer": "Auction Inc",
+          "developer_id": 1299273,
+          "storefront": "google_play",
+          "vendor_identifier": "net.imikapp",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 334415671311,
+          "name": "WePlay - Party Game & Chat",
+          "developer": "WEJOY Pte. Ltd.",
+          "developer_id": 833935,
+          "storefront": "google_play",
+          "vendor_identifier": "com.wejoy.weplay.jp",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 338239390806,
+          "name": "LORDNINE : Infinite Class",
+          "developer": "Smilegate Holdings, Inc",
+          "developer_id": 5201638,
+          "storefront": "google_play",
+          "vendor_identifier": "com.smilegate.l9asia.stove.google",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 280657332044,
+          "name": "オンクレならタイクレ！おうちでクレーンゲームしよ？",
+          "developer": "TAITO Corporation",
+          "developer_id": 55052,
+          "storefront": "google_play",
+          "vendor_identifier": "jp.co.taito.onlinecrane",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 337790030342,
+          "name": "ラグナロクX",
+          "developer": "GungHo Online Entertainment, Inc.",
+          "developer_id": 336270,
+          "storefront": "google_play",
+          "vendor_identifier": "jp.gungho.rox",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 338186762066,
+          "name": "三国志:戦乱",
+          "developer": "Rastar Games",
+          "developer_id": 2030432,
+          "storefront": "google_play",
+          "vendor_identifier": "com.rastargames.zdwjjp",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 338161445036,
+          "name": "終末のワルキューレ The Day of Judgment",
+          "developer": "EX Inc.",
+          "developer_id": 732758,
+          "storefront": "google_play",
+          "vendor_identifier": "jp.ragnarok_doj",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 336877263973,
+          "name": "[櫻坂46公式] サクコイ",
+          "developer": "10ANTZ Inc.",
+          "developer_id": 3007322,
+          "storefront": "google_play",
+          "vendor_identifier": "jp.co.tenantz.sakukoi",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 280589402615,
+          "name": "プロサッカークラブをつくろう！ロード・トゥ・ワールド",
+          "developer": "SEGA CORPORATION",
+          "developer_id": 298398,
+          "storefront": "google_play",
+          "vendor_identifier": "com.sega.sakatsukurtw",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 41193401845,
+          "name": "LINE Bubble 2",
+          "developer": "LINE (LY Corporation)",
+          "developer_id": 140190,
+          "storefront": "google_play",
+          "vendor_identifier": "com.linecorp.LGBB2",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        },
+        {
+          "id": 334298544787,
+          "name": "The Ants: Underground Kingdom",
+          "developer": "StarUnion",
+          "developer_id": 3957226,
+          "storefront": "google_play",
+          "vendor_identifier": "com.allstarunion.ta.jp",
+          "price": {
+            "currency": "JPY",
+            "price": "0.00"
+          }
+        }
+      ]
+    }
+  ]
+}
